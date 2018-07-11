@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"AdvancedNewFile",
+		"Alignment",
+		"ApplySyntax",
+		"Auto Semi-Colon",
+		"AutoFileName",
+		"Bash Build System",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"Console Wrap",
+		"Diffy",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"fish",
+		"jQuery",
+		"JsPrettier",
+		"Local History",
+		"MarkdownPreview",
+		"Material Theme",
+		"Modific",
+		"Package Control",
+		"Pretty JSON",
+		"rainbow_csv",
+		"Random Everything",
+		"rsub",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-yamllint",
+		"SublimeLinter-flow",
+		"SublimeLinter-json",
+		"SublimeLinter-mdl",
+		"SublimeLinter-shellcheck"
+	]
+}
